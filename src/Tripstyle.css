@@ -1,0 +1,58 @@
+.t-cards{
+  border: 3px solid black;
+  width: 30vw;
+  height:90vh;
+  margin-left:10px;
+  border-radius: 10px;
+  background-color: rgb(191, 201, 50);
+display: flex;
+flex-direction: row;
+gap: 20px;
+/* transform: scale(1.08); */
+margin-top:20px;
+ 
+}
+.t-cards:hover{
+    transform: scale(1.08);
+}
+.trip{
+    text-align: center;
+    padding-top:35px;
+    
+}
+.b{
+    font-size: 26px;
+}
+.t-image img{
+    width:29vw;
+    height:40vh;
+}
+.image2{
+    width: 3ovw;
+    height: 90vh;
+    border: 2px solid black;
+    background-color: rgb(120, 177, 203);
+    border-radius: 10px;
+}
+.image2 img{
+    width: 29vw;
+    height: 40vh;
+   
+}
+.r{
+    width: 30vw;
+    height: 90vh;
+    border: 2px solid black;
+    /* margin-top:8px; */
+    background-color: rgb(207, 212, 197);
+    border-radius: 10px;
+}
+.r img{
+    width: 30vw;
+    height:40vh ;
+}
+.r h1{
+    margin-left: 25px;
+}
+.container{
+}

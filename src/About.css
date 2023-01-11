@@ -1,0 +1,120 @@
+.m{
+    text-align: center;
+    margin-top: 25px;
+    
+}
+.box7{
+    width: 40vw;
+    height: 30vh;
+    border: 2px solid yellow;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 15px;
+    background-color: rgb(210, 190, 126);
+   border-radius: 10px;
+}
+.box9{
+    width: 40vw;
+    height: 30vh;
+    border: 2px solid yellow;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 15px;
+   background-color: beige;
+   border-radius: 10px;
+}
+.box10{
+    width: 40vw;
+    height: 30vh;
+    border: 2px solid yellow;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 15px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.box11{
+    width: 40vw;
+    height: 30vh;
+    border: 2px solid yellow;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 15px;
+    background-color: beige;
+    border-radius: 10px;
+}
+.box12{
+    width: 40vw;
+    height: 30vh;
+    border: 2px solid yellow;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 15px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.box13{
+    width: 40vw;
+    height: 30vh;
+    border: 2px solid yellow;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 15px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.box14{
+    width: 40vw;
+    height: 30vh;
+    border: 2px solid yellow;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 15px;
+    background-color: rgb(114, 197, 76);
+    border-radius: 10px;
+}
+.box15{
+    width: 40vw;
+    height: 30vh;
+    border: 2px solid yellow;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 15px;
+  background-color: gray;
+  border-radius: 10px;
+}
+.box16{
+    width: 40vw;
+    height: 30vh;
+    border: 2px solid yellow;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 15px;
+    background-color: pink;
+    border-radius: 10px;
+}
+.box8{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    gap:20px;
+   justify-content: center;
+   box-shadow: 10px;
+ 
+}
+.box17{
+    width: 40vw;
+    height: 30vh;
+    border: 2px solid yellow;
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 15px;
+    background-color: rgb(210, 190, 126);
+   border-radius: 10px;
+}
+.box18{
+    text-align: center;
+    margin-top: 15px;
+   padding: 20px;
+}

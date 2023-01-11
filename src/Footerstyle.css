@@ -1,0 +1,24 @@
+.a{
+    width:100vw;
+ height: 60vh;
+
+
+}
+.for{
+    text-align: center;
+    margin-top: 15px;
+}
+.hh{
+    text-align: center;
+  
+}
+/* .bb{
+    width: 90vw;
+    height: 40vh;
+} */
+.box6{
+    position: absolute;
+    top: 30%;
+    right:40%;
+    color: rgb(179, 219, 93);
+}

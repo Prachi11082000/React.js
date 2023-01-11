@@ -1,0 +1,65 @@
+.hello{
+  
+    padding: 4rem 6rem;
+    align-items: center;
+    /* position: absolute; */
+    /* right:26%; */
+}
+.hello h1{
+    font-size: 3rem;
+    /* position: absolute; */
+    /* left:35%; */
+    
+
+}
+.first{
+    font:right;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+   
+}
+.first box4{
+    width: 45%;
+    text-align: start;
+    font-size: 1.1rem;
+    border: 2px solid gray;
+    font-size: 20px;
+
+}
+.first h1{
+    padding-bottom: 1rem;
+}
+.aa{
+    float: right;
+    transform: scale(1.08);
+}
+.bb{
+    width:21rem;
+    height:12rem;
+    position: absolute;
+    left: 35%;
+    transform: scale(1.08);
+    border-radius: 10px;
+}
+.bb:hover{
+    transform: scale(1.08);
+}
+.h{
+    /* font-size: 40px; */
+    margin-left:70px;
+ 
+    
+}
+.i{
+    width:35%;
+    height: 20%;
+    border-radius: 20px;
+}
+.l{
+    width: 40%;
+    height: 25%;
+    padding-left:80px;
+    border-radius:20px ;
+}

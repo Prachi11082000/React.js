@@ -1,27 +1,24 @@
-import React from "react";
-import Counter from "./components/Counter";
-import Navbar from "./components/Navbar";
-import Show from "./components/Show";
-import AddUser from "./components/AddUser";
-import UserData from "./components/UserData";
-import Lifecycle from "./components/Lifecycle";
-import ApiTest from "./components/ApiTest";
-import AddData from "./components/AddData";
+// import Navbar from "./Navbar"
+ import{Routes,Route}from'react-router-dom';
+ import Home from "./Home"; 
+  import Contact from "./Contact";
+  import About from "./About";
+  import Service from "./Service";
+ // import Signup from"./Signup";
+  import Booking from './Booking'; 
 function App() {
   return (
-    
     <div className="App">
-     
-        <Counter/>
-        <Navbar/>
-        <Show/>
-        <div className="container">
-        <AddUser/>
-        </div>
-        <UserData/>
-        <Lifecycle/>
-        <ApiTest/>
-        <AddData/>
+ {/* <Navbar/> */}
+  <Routes>
+    <Route path="/" element={<Home/>}/>
+    <Route path="/About" element={<About/>}/>
+    <Route path="/Contact" element={<Contact/>}/>
+    <Route path="/Service" element={<Service/>}/>
+    {/* <Route path="/" element={<Signup/>}/> */}
+    <Route path="/booking" element={<Booking/>}/>
+  </Routes>
+
     </div>
   );
 }
